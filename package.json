@@ -1,0 +1,10 @@
+{
+  "name": "fileToHex-HexToFile",
+  "version": "1.0.0",
+  "description": "This is a test to convert a file to hexa-string and after reverse the operation converting hexa-string to file again",
+  "main": "index.js",
+  "repository": "https://github.com/andrepraeiro/FileToHex-HexToFile",
+  "author": "Andre Praeiro",
+  "license": "MIT",
+  "private": false
+}
